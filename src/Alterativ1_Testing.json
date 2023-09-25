@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "title": "What is the name of the world's largest desert?",
+            "answers": [
+                {
+                    "answer": "Sahara",
+                    "correct": true
+                },
+                {
+                    "answer": "Atacama"
+                },
+                {
+                    "answer": "Gobi"
+                },
+                {
+                    "answer": "Karakum"
+                }
+            ],
+            "helper": {
+                "text": "The desert is known for its tall sand dunes of 180 meters."
+            }
+        },
+        {
+            "title": "Who was Norway's first female Prime Minister?",
+            "answers": [
+                {
+                    "answer": "Gro Harlem Brundtland",
+                    "correct": true
+                },
+                {
+                    "answer": "Erna Solberg"
+                },
+                {
+                    "answer": "Olaug Bollestad"
+                },
+                {
+                    "answer": "Marit Arnstad"
+                }
+            ],
+            "helper": {
+                "text": "She served as Prime Minister for three terms for the Labour Party."
+            }
+        },
+        {
+            "title": "Where does the dish taco originate from?",
+            "answers": [
+                {
+                    "answer": "Mexico",
+                    "correct": true
+                },
+                {
+                    "answer": "France"
+                },
+                {
+                    "answer": "Norway"
+                },
+                {
+                    "answer": "Greece"
+                }
+            ],
+            "helper": {
+                "text": "Taco originates from the southern part of North America."
+            }
+        },
+        {
+            "title": "What is the highest-grossing movie worldwide?",
+            "answers": [
+                {
+                    "answer": "Avatar",
+                    "correct": true
+                },
+                {
+                    "answer": "Titanic"
+                },
+                {
+                    "answer": "Frozen"
+                },
+                {
+                    "answer": "The Avengers"
+                }
+            ],
+            "helper": {
+                "text": "It's a science fiction movie directed by James Cameron."
+            }
+        }
+    ]
+}
